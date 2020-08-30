@@ -273,6 +273,7 @@ header nav ul li a {
   font-size: .7rem;
   width: 50%;
   outline: none;
+  border: none;
   border-radius: 50px;
   color: var(--blue-intro);
   font-family: 'Open Sans', sans-serif;
@@ -523,7 +524,7 @@ header nav ul li a {
             justify-content: flex-start !important;
   }
   .footer__card .contact p {
-    padding: .3rem 0;
+    padding: .3rem .8rem;
   }
   .footer__card + .footer__card {
     margin-top: 1rem;
